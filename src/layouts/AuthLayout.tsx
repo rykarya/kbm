@@ -9,7 +9,7 @@ const AuthLayout = ({ children }: AuthLayoutProps) => {
     <div className="min-h-screen bg-gray-50 flex items-center justify-center p-4">
       <div className="w-full max-w-md">
         <div className="flex flex-col items-center justify-center text-center mb-8">
-          <h1 className="text-3xl font-bold text-blue-600">Kelas Guru</h1>
+          <h1 className="text-3xl font-bold text-blue-600">Rykarya</h1>
           <p className="text-gray-500 mt-2">Platform manajemen pembelajaran</p>
         </div>
         
